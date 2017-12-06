@@ -1,7 +1,7 @@
 <template>
   <div id="app">
-    <img src="https://vuejs.org/images/logo.png">
     <h1>{{ msg }}</h1>
+    <img src="https://vuejs.org/images/logo.png">
   </div>
 </template>
 
